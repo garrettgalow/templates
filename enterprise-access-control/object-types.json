@@ -15,7 +15,7 @@
             "manager": {
                 "inheritIf": "admin",
                 "ofType": "organization",
-                "withRelation": "parent"
+                "withRelation": "org"
             },
             "member": {
                 "inheritIf": "manager"
